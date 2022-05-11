@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head> <title> Asynchronous vs Synchronous</title>
+<style>
+body {
+	background-color:#4bff82;
+}
+</style>
+</head>
+<body style=text-align:center;>
+<h1> Asynchronous vs Synchronous</h1>
+<h3> Module Twelve Activity Six Multimedia Website!</h3>
+</br><p>
+Asynchronous and Synchronous are both communications tools that creative a positive learning and working enviorment. 
+To learn more about the difference between the two watch the video below. Be sure to enable full screen view to see the subtitles.
+</p>
+<video width="320" height="240" controls="controls">
+<source src="synasyn.mp4" type="video/mp4" />
+Your browser does not support the video tag.
+</video>
+<h4>Video Source: "Synchronous Versus Asynchronous Communication Tools" &copy; John Spencer</h4>
+
+<h3>Check for Understanding Quiz</h3> 
+<p> 
+When does Asynchronous happen?
+<input name="when" id="when" type="radio" value="yes">Real Time
+<input name="when" id="when" type="radio" value="no">Never
+<input name="when" id="when" type="radio" value="no">Longer Period of Time
+<input name="when" id="when" type="radio" value="no">Always
+</p>
+<p> 
+When does Synchronous happen?
+<input name="wh" id="wh" type="radio" value="no">Real Time
+<input name="wh" id="wh" type="radio" value="no">Never
+<input name="wh" id="wh" type="radio" value="yes">Longer Period of Time
+<input name="wh" id="wh" type="radio" value="no">Always
+</p>
+<p> 
+Which are Examples of when Synchronous can happen?
+<br /> 
+<input name="happ" id="happ" type="checkbox" value="yes">Video Confrenece    
+<input name="happ" id="happ" type="checkbox" value="yes">Phone Call
+<input name="happ" id="happ" type="checkbox" value="no"> Audio Message
+<input name="happ" id="happ" type="checkbox" value="no"> Pre-Recorded Video
+<input name="happ" id="happ" type="checkbox"  value="yes">Live Chat  
+</p>
+
+<p> 
+Which are Examples of when Asynchronous can happen?
+<br /> 
+<input name="en" id="en" type="checkbox" value="yes"> Pre-Recorded Video         
+<input name="en" id="en" type="checkbox" value="no"> Live Chat      
+<input name="en" id="en" type="checkbox" value="no"> Phone Call
+<input name="en" id="en" type="checkbox"  value="yes"> Audio Message      
+<input name="en" id="en" type="checkbox" value="yes"> Email
+<form method= "post action" =" mailto:featuredp@gmail.com "> 
+
+<p> 
+<input type="submit" value="Please submit the form by clicking here."> 
+<input type="reset" value="Made an error? Feel free to reset"> 
+</p><p> 
+Thank you! I hope you learned something new!</p><p> 
+</form> 
+
+</body>
