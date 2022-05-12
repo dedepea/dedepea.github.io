@@ -1,0 +1,21 @@
+<html>
+<head>
+<title></title>
+
+<script type="text/javascript">
+
+function HelloWorld()
+{
+   myname = prompt("What's yer name bub?", "");
+   alert("Hello " + myname);
+}
+
+</script>
+
+</head>
+<body>
+
+<a href="javascript:HelloWorld()">Hello</a>
+
+</body>
+</html>
