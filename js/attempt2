@@ -1,0 +1,22 @@
+<html>
+<head>
+<title></title>
+
+<script type="text/javascript">
+
+function WhenClicked(number)
+{
+   alert("You clicked on " + number);
+}
+
+</script>
+
+</head>
+<body>
+
+<a href="javascript:HelloWorld('1.gif')">1</a><br>
+<a href="javascript:HelloWorld('2.gif')">2</a><br>
+<a href="javascript:HelloWorld('3.gif')">3</a><br>
+
+</body>
+</html>
