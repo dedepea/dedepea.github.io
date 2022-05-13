@@ -85,3 +85,55 @@ right: 40px;
 text-align:1eft;
 height:500px;
 }
+#faq1 {clear: right; width: 300px; padding: 20px;
+float: left;
+background-color: white;
+position: relative;
+top: 50px;
+left: 350px;
+text-align:1eft;
+height:150px;
+}
+#faq2 {clear: left; width: 300px; padding: 20px;
+float: left;
+background-color: blue;
+position: relative;
+top: 100px;
+left: 150px;
+text-align:1eft;
+height:150px;
+}
+#faq3 {clear: right; width: 300px; padding: 20px;
+float: left;
+background-color: green;
+position: relative;
+top: 100px;
+left: 200px;
+text-align:1eft;
+height:150px;
+}
+#faq4 {clear: left; width: 300px; padding: 20px;
+float: left;
+background-color: yellow;
+position: relative;
+top: 150px;
+left: 150px;
+text-align:1eft;
+height:150px;
+}
+#faq5 {clear: right; width: 300px; padding: 20px;
+float: left;
+background-color: purple;
+position: relative;
+top: 150px;
+left: 200px;
+text-align:1eft;
+height:150px;
+}
+#last {clear: right; width: 460px; padding: 20px;
+float: left;
+background-color: white;
+position: relative;
+top: 60px;
+text-align:1eft;
+height:360px;

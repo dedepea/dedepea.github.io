@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head> <title>Capstone Project</title>
+<head>
+<meta name="description" content="tesla Solar Powered Sports Car">
+<meta name="keywords" content="Clean Energy, Clean, Solar, Solar Power, Tesla, Energy">
+ <title>Capstone Project</title>
 <link rel="stylesheet" type="text/css" href="capstyles.css" />
 <style>
 table {
@@ -10,7 +13,7 @@ table {
 	border-color: red;
 	padding: 20px;
 	background-color: white;
-	font-size:10px;
+	font-size:14px;
 }
 tr, td, th {
 	border: 1px solid;
@@ -60,7 +63,7 @@ The company founded in California in 2003 by Elon Musk as Tesla Motors has evolv
 <img src="car1.jpeg" height="400" width="10000" usemap="#cyber" border= "0" class="center"/> 
 <!-- rectangle -->
 <map name="cyber" id="cyber"> 
-<area shape="circle" coords= "226, 226, 350" href="https://www.mimecast.com/blog/types-of-cybercrime/" 
+<area shape="circle" coords= "226, 226, 350" href="https://www.tesla.com/" 
 alt="Tesla Solar Powered Car" /> 
 </map>
 </div>

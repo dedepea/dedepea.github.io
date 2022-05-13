@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <html>
-<head> <title>Learn more about Maleware attacks</title>
-<link rel="stylesheet" type="text/css" href="cystyles.css" />
+<head>
+<meta name="description" content="Tesla Solar Powered Sports Car">
+<meta name="keywords" content="Clean Energy, Clean, Solar, Solar Power, Tesla, Energy">
+ <title>Capstone Project</title>
+<link rel="stylesheet" type="text/css" href="capstyles.css" />
 <style>
 table {
-	width:100%;
+	width: 100%;
 	border-collapse: collapse;
 	border: 3px solid;
-	border-color: blue;
+	border-color: red;
 	padding: 20px;
-	background-color: yellow;
+	background-color: white;
+	font-size:14px;
 }
 tr, td, th {
 	border: 1px solid;
@@ -18,56 +22,63 @@ tr, td, th {
   display: block;
   width: 100%;
 }
-
+ul,li {
+  list-style-type: none;
+  margin: 1px;
+  width: 900px;
+  display:inline;
+  float: left;
+  text-align:center;
+}
+div {
+	color:black;
+}
 </style>
 </head>
 <body>
 <br/>
-<hr style=background-color:#003311>
+<hr style=background-color:red>
 <div id="wrapper">
 
-<div id="header" style="color:white; text-align:center;">
-<h1> What are Maleware Attacks?</h1>
-<h4> Click anywhere on the image below to learn more!</h4>
+<div id="header" style="color:black; text-align:center;">
+<img src="tesla.logo.jpeg" height="100" width="600"/> 
+<h3>Module Eleven Obj. 8.06 Capstone Project</h3>
 </div>
+<hr style=background-color:red>
 <div id="navigation" style="color:white; text-align:center;">
-
-<ul>
-  <li><a href="cyhome.html">Home </a></li>
-  <li><a href="cysecond.html">Maleware Attacks </a></li>
-  <li><a href="cythird.html">Online Safety </a></li>
-</ul>
+<h1>
+<a href="cap1.html">Home </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="cap2.html">FAQ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="cap3.html">Catalog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="cap4.html">Related Links</a>
+</h1>
 </div>
 <div id="content1">
-<h3> A Maleware Attack is a type of cyberattack where malicus software (such as viruses) are executed within a system with the intent of harm. These attacks can do anything from access personal data within your system to render your system useless.
-</h3></div>
-<div id="imagemap">
-<img src="cyimage.jpg" height="500" width="5500" usemap="#cyber" border= "0" class="center"/> 
-<!-- rectangle -->
-<map name="cyber" id="cyber"> 
-<area shape="circle" coords= "226, 226, 350" href="https://www.mimecast.com/blog/types-of-cybercrime/" 
-alt="Learn About The Types of Cybercrimes" /> 
-</map>
-</div>
-<div id="content2">
-<h3> The most common types of Maleware attcks are: 
+<h3> About Us</h3>
+<p>Tesla Inc.&reg; is an American Automotive company specializing in clean energy. 
+The company founded in California in 2003 by Elon Musk as Tesla Motors has evolved into a worldwide distributor for cutting edge clean fuel automobiles. </p>
 
-<ul style=list-style-type:square;>
-<li>Viruses </li>
-<li>Trojans</li>
-<li> Spyware </li>
-<li> Ransomeware </li>
-<li> Adware (Malicious Advertising)</li>
-<li> Malvertising (Pop-Ups) </li>
-</ul>
-</h3>
+</div>
+
+<div id="content2">
+
 </div>
 <div id="content3">
- <h3> Large corporations are more likely to be the target of a Ransomware attacks, where systems and data are held at ransome. However, anyone can be the victim of a maleware attack so virtually securing practices are key. </h3>
+<h3> Contact Information </h3>
+<table>
+	<tr style ="font-family:verdana;text-align:center;">
+		<th> Headquarters</th>
+		<th> Customer Service Toll-Free Line</th>
+		<th> Sales Phone Number </th>
+	</tr>
+	<tr>
+		<td> Based in Austin, TX </td>
+		<td> 1 (888)518-3752</td>
+		<td> 1 (650) 681-5100 </td>
+	</tr>
+					
+</table>
 </div>
-
-
- 
 </div>
 </body>
 </html>
