@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head> <title>Protect yourself</title>
+<link rel="stylesheet" type="text/css" href="cystyles.css" />
+<style>
+table {
+	width:100%;
+	border-collapse: collapse;
+	border: 3px solid;
+	border-color: blue;
+	padding: 20px;
+	background-color: yellow;
+}
+tr, td, th {
+	border: 1px solid;
+}
+.center {
+  display: block;
+  width: 100%;
+}
+ul,li {
+  list-style-type: none;
+  margin: 1px;
+  width: 900px;
+  display: block;
+  float: left;
+  text-align:center;
+}
+</style>
+</head>
+<body>
+<br/>
+<hr style=background-color:white>
+<div id="wrapper">
+
+<div id="header" style="color:white; text-align:center;">
+<h1> How to Stay Safe Online</h1>
+<h4> Click anywhere on the image below to learn more!</h4>
+</div>
+<div id="navigation" style="color:white; text-align:center;">
+
+<ul>
+  <li><a href="cyhome.html">Home </a></li>
+  <li><a href="cysecond.html">What are Maleware Attacks? </a></li>
+  <li><a href="cythird.html">Online Safety </a></li>
+</ul>
+</div>
+<div id="content1">
+<h3> Use Strong Passwords</h3>
+Choosing a password that is hard to guess for attackers, but easy for you to remember is key.
+</div>
+<div id="imagemap">
+<img src="cyimage.jpg" height="500" width="5500" usemap="#cyber" border= "0" class="center"/> 
+<!-- rectangle -->
+<map name="cyber" id="cyber"> 
+<area shape="circle" coords= "226, 226, 350" href="https://www.mimecast.com/blog/types-of-cybercrime/" 
+alt="Learn About The Types of Cybercrimes" /> 
+</map>
+</div>
+<div id="content2">
+<h3> Think Before you click</h3>
+Many maleware attacks are downloaded onto your system via a corrupted link or download. Be sure that the things your clicking on are from a reliable and credible source.
+</br>
+<img src="click.jpg" height="100" width="100"/> (Source: shutterstock)
+
+</div>
+<div id="content3">
+<h3>Turn on Multifactor Authentication (If Possible) </h3>
+Having that extra step to confirm your idenity whether that is through a code being sent to your inbox or a security question is very helpful to protect yourself.
+
+
+<a href="https://www.cisa.gov/4-things-you-can-do-keep-yourself-cyber-safe" rel="noopener noreferrer" target="_blank">Learn More!</a>
+</div> 
+</div>
+</body>
+</html>
